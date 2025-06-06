@@ -1,2 +1,1 @@
-São Paulo - Piqueri | Temperatura: 21.0 ºC | Umidade: 75.0% | Risco: Não | Rota: Procure os abrigos temporários listados no site da prefeitura.
-São Paulo - Pompeia | Temperatura: 20.0 ºC | Umidade: 75.0% | Risco: Não | Rota: Procure os abrigos temporários listados no site da prefeitura.
+São Paulo - Butantã | Temperatura: 21.0 ºC | Umidade: 65.0% | Risco: Não | Rota: Procure os abrigos temporários listados no site da prefeitura.
