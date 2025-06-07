@@ -1,3 +1,8 @@
+#1ESPR
+#Alexandre Delfino...: RM560059
+#Enzo Luciano........: RM559557
+#livia Pereira Dias..: RM559414
+
 import os
 import pandas as pd
 
